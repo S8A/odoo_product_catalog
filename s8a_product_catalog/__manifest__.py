@@ -16,5 +16,6 @@
         "product",
     ],
     "data": [
+        "views/product_catalog_templates.xml",
     ],
 }
